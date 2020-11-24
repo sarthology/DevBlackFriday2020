@@ -14,6 +14,7 @@
 
 ### HTML templates and themes
 1. ***Bootstrap Themes***: Save up to 94% on Bootstrap themes, admin dashboard templates, and UI kits at Themesberg 👉🏼 [🎁](https://themesberg.com/black-friday)  *(limited 150 orders available)*
+2. ***Material Design for Bootstrap***: 90% OFF on Plugins, 🎨 templates & thousands of 💎 premium components divided into Boootstrap 5, Angular, jQuery, React & Vue  UI Kits 👉 [🎁](https://mdbootstrap.com/sale/)
 
 ## Powder by
 
