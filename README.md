@@ -7,11 +7,13 @@
 2. ***Nucleo Icons***: 25% OFF! Enter the code blackfriday25 👉🏼 [🎁](https://nucleoapp.com)
 3. ***Designmodo Products***: Use coupon code BLACK during checkout and save 30%! 👉🏼 [🎁](https://designmodo.com/blackfriday/?u=4176)
 
-
 ### VPN
 
 1. ***Nord VPN*** : Get 68% off + 3 months FREE 👉🏼 [🎁](https://nordvpn.com)
 2. ***Cyber Ghost***: Only $2.25/mo for the 3-year plan 👉🏼 [🎁](https://www.cyberghostvpn.com/en_US/)
+
+### HTML templates and themes
+1. ***Bootstrap Themes***: Save up to 94% on Bootstrap themes, admin dashboard templates, and UI kits at Themesberg 👉🏼 [🎁](https://themesberg.com/black-friday)  *(limited 150 orders available)*
 
 ## Powder by
 
