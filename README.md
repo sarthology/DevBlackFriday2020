@@ -15,6 +15,7 @@ Follow this [Post on Dev.to](https://dev.to/sarthology/the-black-friday-and-cybe
 1. **_Adobe Creative Cloud_** Get 25% off. 👉🏼 [Link 🎁](https://www.adobe.com/creativecloud.html)
 2. **_Nucleo Icons_**: 25% OFF! Enter the code blackfriday25 👉🏼 [Link 🎁](https://nucleoapp.com)
 3. **_Designmodo Products_**: Use coupon code BLACK during checkout and save 30%! 👉🏼 [Link 🎁](https://designmodo.com/blackfriday/?u=4176)
+4. **_Affinity Designer_**: Get 30% Off 👉🏼 [Link 🎁](https://affinity.serif.com/en-us/designer/#buy)
 
 <div align="center"><img src="https://user-images.githubusercontent.com/3650216/100120186-b10b8f00-2e9d-11eb-9d43-495dd1b2f492.png"></div>
 
