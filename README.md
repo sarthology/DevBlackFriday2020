@@ -15,6 +15,9 @@
 ### HTML templates and themes
 1. ***Bootstrap Themes***: Save up to 94% on Bootstrap themes, admin dashboard templates, and UI kits at Themesberg 👉🏼 [🎁](https://themesberg.com/black-friday)  *(limited 150 orders available)*
 
+### Software Engineering Courses
+1. **Pluralsight** 40% off 👉🏼 [🎁](https://www.pluralsight.com/pricing/skills)
+
 ## Powder by
 
 [XenoX](https://xenox.dev) with ❤️
