@@ -15,6 +15,10 @@
 ### HTML templates and themes
 1. ***Bootstrap Themes***: Save up to 94% on Bootstrap themes, admin dashboard templates, and UI kits at Themesberg 👉🏼 [🎁](https://themesberg.com/black-friday)  *(limited 150 orders available)*
 
+### Content marketing
+
+1. ***Mugshot Bot***: Automate Open Graph images with one line of HTML. Save 50% _forever_ 👉🏼 [🎁](https://mugshotbot.com)
+
 ## Powder by
 
 [XenoX](https://xenox.dev) with ❤️
