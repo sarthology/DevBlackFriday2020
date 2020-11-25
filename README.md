@@ -32,11 +32,13 @@ Follow this [Post on Dev.to](https://dev.to/sarthology/the-black-friday-and-cybe
 
 <div align="center"><img src="https://user-images.githubusercontent.com/3650216/100120483-fa5bde80-2e9d-11eb-85b0-ca61ec32734b.png"></div>
 
-### Learning
+### Courses
 
 1.  **_Pluralsight_**: Get 40% Off 👉🏼 [Link 🎁](https://www.pluralsight.com/)
 2.  **_Udemy_**: Courses starting at 5$ 👉🏼 [Link 🎁](https://www.udemy.com)
 3.  **_Vue School_**:  Get 40% Off  👉🏼 [Link 🎁](https://vueschool.io/sales/blackfriday)
+4.  **_Desktop App with electron_**:  Save up to 50% 👉🏼 [Link 🎁](https://desktopappswithelectron.com/)
+5.  **_ES6 For Everyone!_**: Get 50% Off $69   👉🏼 [Link 🎁](https://es6.io/)
 
 ### VPN
 
