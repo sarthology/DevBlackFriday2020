@@ -35,7 +35,8 @@ Follow this [Post on Dev.to](https://dev.to/sarthology/the-black-friday-and-cybe
 ### Learning
 
 1.  **_Pluralsight_**: Get 40% Off 👉🏼 [Link 🎁](https://www.pluralsight.com/)
-1.  **_Udemy_**: Courses starting at 5$ 👉🏼 [Link 🎁](https://www.udemy.com)
+2.  **_Udemy_**: Courses starting at 5$ 👉🏼 [Link 🎁](https://www.udemy.com)
+3.  **_Vue School_**:  Get 40% Off  👉🏼 [Link 🎁](https://vueschool.io/sales/blackfriday)
 
 ### VPN
 
