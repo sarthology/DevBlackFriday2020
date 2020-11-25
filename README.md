@@ -39,6 +39,7 @@ Follow this [Post on Dev.to](https://dev.to/sarthology/the-black-friday-and-cybe
 3.  **_Vue School_**:  Get 40% Off  👉🏼 [Link 🎁](https://vueschool.io/sales/blackfriday)
 4.  **_Desktop App with electron_**:  Save up to 50% 👉🏼 [Link 🎁](https://desktopappswithelectron.com/)
 5.  **_ES6 For Everyone!_**: Get 50% Off $69   👉🏼 [Link 🎁](https://es6.io/)
+6.  **_Learnetto Bundle!_**:  ~$1,322~ $399 only 👉🏼 [Link 🎁](https://learnetto.com/blackfriday)
 
 ### VPN
 
