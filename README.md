@@ -11,6 +11,7 @@ Follow this [Post on Dev.to](https://dev.to/sarthology/the-black-friday-and-cybe
 ***Designers***
 
 1. **[Tools](#tools)**
+2. **[Resources](#resources)**
 
 ***Developers***
 
@@ -29,9 +30,16 @@ Follow this [Post on Dev.to](https://dev.to/sarthology/the-black-friday-and-cybe
 ## Tools
 
 1. **_Adobe Creative Cloud_** Get 25% off. 👉🏼 [Link 🎁](https://www.adobe.com/creativecloud.html)
-2. **_Nucleo Icons_**: 25% OFF! Enter the code blackfriday25 👉🏼 [Link 🎁](https://nucleoapp.com)
+2. **_Cloud App_**: Cyber Week Discounts on Pro and Team up to 60% of 👉🏼 [Link 🎁](https://www.getcloudapp.com/pricing?utm_source=homepage&utm_medium=banner&utm_campaign=homepage_banner)
 3. **_Designmodo Products_**: Use coupon code BLACK during checkout and save 30%! 👉🏼 [Link 🎁](https://designmodo.com/blackfriday/?u=4176)
 4. **_Affinity Designer_**: Get 30% Off 👉🏼 [Link 🎁](https://affinity.serif.com/en-us/designer/#buy)
+
+## Resources
+1. **_Craftwork_**: 50% OFF! till 30 Nov 👉🏼 [Link 🎁](https://craftwork.design/black-friday/)
+2. **_Nucleo Icons_**: 25% OFF! Enter the code blackfriday25 👉🏼 [Link 🎁](https://nucleoapp.com)
+3. **_Flaticon_**: Annual Premium for ~89.99€~ 39.99€ 👉🏼 [Link 🎁](https://nucleoapp.com)
+4. **_Round Icons_**: Everything at 59$ Forever👉🏼 [Link 🎁](https://nucleoapp.com)
+
 
 <div align="center"><img src="https://user-images.githubusercontent.com/3650216/100120186-b10b8f00-2e9d-11eb-9d43-495dd1b2f492.png"></div>
 
