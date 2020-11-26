@@ -48,6 +48,7 @@ Follow this [Post on Dev.to](https://dev.to/sarthology/the-black-friday-and-cybe
 1. **_Git Kraken_**: Use promo code GKBF20 for $10 off 1 user Pro purchases or GKBF20TEAM for $100 off 10 user Pro purchase 👉🏼 [Link 🎁](https://www.gitkraken.com/pricing)
 2. **_Tower_**: All plans are 50% off 👉🏼 [Link 🎁](https://www.git-tower.com/pricing/mac)
 3. **_iStat_**: iStat Menus is 66% off for Black Friday and Cyber Monday! 👉🏼 [Link 🎁](https://bjango.com/mac/istatmenus/)
+4. **_Checkbot: SEO, speed & security checker_**: 60% off first year! 👉🏼 [Link 🎁](https://www.checkbot.io)
 
 ## HTML templates and themes
 
