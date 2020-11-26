@@ -4,7 +4,23 @@ This repo has all the Black Friday and Cyber Monday deals that has to do with De
 
 Follow this [Post on Dev.to](https://dev.to/sarthology/the-black-friday-and-cyber-monday-thread-2020-d8l) to see to suggest more deals.
 
-**_Note_**: No spam please or PR will be rejected
+**_Note_**: No spam please or PR will be rejected.
+
+### Table 
+
+***Designers***
+
+1. **[Tools](#tools)**
+
+***Developers***
+
+1. **[Softwares](#softwares)**
+2. **[Templates and Themes](#html-templates-and-themes)**
+3. **[Courses](#courses)**
+
+***Misc.***
+
+1. **[VPN](#vpn)**
 
 ---
 
@@ -19,7 +35,7 @@ Follow this [Post on Dev.to](https://dev.to/sarthology/the-black-friday-and-cybe
 
 <div align="center"><img src="https://user-images.githubusercontent.com/3650216/100120186-b10b8f00-2e9d-11eb-9d43-495dd1b2f492.png"></div>
 
-## Tools
+## Softwares
 
 1. **_Git Kraken_**: Use promo code GKBF20 for $10 off 1 user Pro purchases or GKBF20TEAM for $100 off 10 user Pro purchase 👉🏼 [Link 🎁](https://www.gitkraken.com/pricing)
 2. **_Tower_**: All plans are 50% off 👉🏼 [Link 🎁](https://www.git-tower.com/pricing/mac)
@@ -29,8 +45,6 @@ Follow this [Post on Dev.to](https://dev.to/sarthology/the-black-friday-and-cybe
 
 1. **_Bootstrap Themes_**: Save up to 94% on Bootstrap themes, admin dashboard templates, and UI kits at Themesberg 👉🏼 [Link 🎁](https://themesberg.com/black-friday)
 2. **_Creative Time_**: Black Friday 90% OFF 👉🏼 [Link 🎁](https://www.creative-tim.com/campaign)
-
-<div align="center"><img src="https://user-images.githubusercontent.com/3650216/100120483-fa5bde80-2e9d-11eb-85b0-ca61ec32734b.png"></div>
 
 ## Courses
 
@@ -42,6 +56,8 @@ Follow this [Post on Dev.to](https://dev.to/sarthology/the-black-friday-and-cybe
 6.  **_Learnetto Bundle!_**:  ~$1,322~ $399 only 👉🏼 [Link 🎁](https://learnetto.com/blackfriday)
 7.  **_Node CLI Automation!_**:  ~$249~ $99 only 👉🏼 [Link 🎁](https://nodecli.com)
 7.  **_VSCode Power User!_**:  ~$164~ $44 only 👉🏼 [Link 🎁](https://vscode.pro)
+
+<div align="center"><img src="https://user-images.githubusercontent.com/3650216/100120483-fa5bde80-2e9d-11eb-85b0-ca61ec32734b.png"></div>
 
 ## VPN
 
