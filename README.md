@@ -33,6 +33,7 @@ Follow this [Post on Dev.to](https://dev.to/sarthology/the-black-friday-and-cybe
 2. **_Cloud App_**: Cyber Week Discounts on Pro and Team up to 60% of 👉🏼 [Link 🎁](https://www.getcloudapp.com/pricing?utm_source=homepage&utm_medium=banner&utm_campaign=homepage_banner)
 3. **_Designmodo Products_**: Use coupon code BLACK during checkout and save 30%! 👉🏼 [Link 🎁](https://designmodo.com/blackfriday/?u=4176)
 4. **_Affinity Designer_**: Get 30% Off 👉🏼 [Link 🎁](https://affinity.serif.com/en-us/designer/#buy)
+5. **_HammerAI_**: Get 50% off  👉🏼 [Link 🎁](https://www.hammerai.com/)
 
 ## Resources
 1. **_Craftwork_**: 50% OFF! till 30 Nov 👉🏼 [Link 🎁](https://craftwork.design/black-friday/)
